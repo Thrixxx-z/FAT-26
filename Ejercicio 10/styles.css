@@ -1,0 +1,30 @@
+table {
+    border-collapse: collapse;
+}
+
+th {
+    width: 170px;
+}
+
+td {
+    background: white;
+    color: blue;
+    font-family: Arial;
+    border: 1px solid black;
+    padding: 8px 4px;
+}
+
+.destacar {
+    background: red;
+    color: white;
+}
+
+tfoot {
+    text-align: center;
+    font-size: 12px;
+}
+
+caption {
+    font-size: 18px;
+    font-weight: bold;
+}
